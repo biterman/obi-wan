@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuineMcCluskey", "QuineMcCluskey\QuineMcCluskey.csproj", "{0F53F70A-CA99-44D8-9A06-F2B8E1310170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuineMcCluskeyTest", "QuineMcCluskeyTest\QuineMcCluskeyTest.csproj", "{DE5E44CF-0E1A-4FED-AA9F-71DD17EB8309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F53F70A-CA99-44D8-9A06-F2B8E1310170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F53F70A-CA99-44D8-9A06-F2B8E1310170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F53F70A-CA99-44D8-9A06-F2B8E1310170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F53F70A-CA99-44D8-9A06-F2B8E1310170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5E44CF-0E1A-4FED-AA9F-71DD17EB8309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5E44CF-0E1A-4FED-AA9F-71DD17EB8309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5E44CF-0E1A-4FED-AA9F-71DD17EB8309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5E44CF-0E1A-4FED-AA9F-71DD17EB8309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
